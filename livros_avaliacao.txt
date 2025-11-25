@@ -1,0 +1,5 @@
+1997, Harry Potter, J.K, 5, lido
+1957, Harry Potter, J.K, 10, lido
+2001, Harry Potter, J.K, 3, lido
+1887, Harry Potter, J.K, 1, lendo
+2025, Harry Potter, J.K, nao leu, na lista
